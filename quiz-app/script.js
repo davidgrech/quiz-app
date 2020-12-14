@@ -28,4 +28,13 @@ const quizData = [
         d: '16K - 20K',
         correct: 'd'
     }
-]
+];
+
+let currentQuestion = 0;
+
+loadQuiz();
+
+function loadQuiz() {
+
+    currentQuestion++;
+}
