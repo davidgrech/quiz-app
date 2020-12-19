@@ -27,6 +27,20 @@ const quizData = [
         c: '11K - 15K',
         d: '16K - 20K',
         correct: 'd'
+    }, {
+        question: 'Which great ape is native to Indonesia?',
+        a: 'Gorilla',
+        b: 'Chimpanzee',
+        c: 'Orangutan',
+        d: 'Bonobo',
+        correct: 'c'
+    }, {
+        question: 'What is the most active volcano in Indonesia?',
+        a: 'Mount Merbabu',
+        b: 'Mount Merapi',
+        c: 'Mount Bromo',
+        d: 'Mount Ijen',
+        correct: 'b'
     }
 ];
 
